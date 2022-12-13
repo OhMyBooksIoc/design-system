@@ -924,6 +924,9 @@ section:nth-of-type(6) h2::before {
 .cd-icons .cd-icon-8 {
   background-image: url("../recursos/icons/icon-8.svg");
 }
+.cd-icons .cd-icon-9 {
+  background-image: url("../recursos/icons/icon-9.svg");
+}
 
 /* xForm section - basic style */
 .cd-form input[type=text],
